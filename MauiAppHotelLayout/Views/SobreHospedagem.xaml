@@ -58,7 +58,7 @@
                     Text="" />
                 <Label 
                     Text="" />
-                
+
                 <!-- Data -->
                 <Label 
                     Text="Criado em 17/05/2026" 
@@ -69,6 +69,10 @@
             </VerticalStackLayout>
 
         </Border>
+
+        <Button Text="Voltar"
+                HorizontalOptions="Center"
+                Clicked="Button_Clicked" />
 
     </VerticalStackLayout>
     
